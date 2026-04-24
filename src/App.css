@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: #00ff00;
+    box-shadow: 0px 0px 20px 5px #00ff00; 
+    border-radius: 50%;
+    border: 10px;
+}
+
+h1 {
+    font-family: 'geneva';
+    font-size: 40px;
+    -webkit-text-stroke: 1.5px black;
+    color: blue;
+    background-color: #00ff00;
+
+}

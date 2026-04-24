@@ -1,0 +1,16 @@
+body{
+  margin: 0;
+  background-image: url('./assets/abstraction.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  z-index: -1;
+}
+
+.header h1 {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  align-items: center;
+  padding: 20px;
+}
