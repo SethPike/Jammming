@@ -2,13 +2,15 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 0 auto;
-    padding: 50px;
+    margin: .5rem auto;
+    padding: 1rem 2rem;
     background-color: #00ff00;
     box-shadow: 0px 0px 20px 5px #00ff00; 
     border-radius: 50%;
-    border: 10px;
+    width: fit-content;
+    height: 25%;
 }
+
 
 h1 {
     font-family: 'geneva';

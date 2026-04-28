@@ -1,10 +1,9 @@
 export default function RingText({ children }) {
   return (
-    <svg 
-    viewBox="0 0 310 170" 
-    width="100" 
-    style={{overflow:'visible', display: 'block', margin: '0 auto'}}
-    xmlns="http://www.w3.org/2000/svg">
+    <svg
+      viewBox="-140 0 920 200"
+      style={{ display: 'block', margin: '0 auto', width: '300px', height: '100px' }}
+      xmlns="http://www.w3.org/2000/svg">
       <text x="310" y="140" textAnchor="middle"
         fontFamily="Playfair Display, Georgia, serif"
         fontSize="130" fontWeight="700"
